@@ -1,7 +1,5 @@
-# Scrapline Rush: Core Breaker — official game showcase
+# Rivet Overdrive — KiteStudio
 
-Game introduction, artwork previews, and silent gameplay videos for Scrapline Rush: Core Breaker by Kite Studio.
+Game showcase with original artwork and silent gameplay from RC5.
 
-Website: https://kitestudiodev.github.io/topple-rivals-media/
-
-This page is for viewing. No game source, saves, or private development files are included.
+This repository is private and GitHub Pages remains disabled. No game source, saves, QA evidence or game upload package is included. Publication and portal submission are separate steps.
